@@ -1,3 +1,5 @@
 # Python-Data-Analysis
 # SpaceX Data Science Project
-## data collection & wrangling
+## data collection
+## webscraping
+## data wrangling
